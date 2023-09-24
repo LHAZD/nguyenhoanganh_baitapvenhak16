@@ -23,7 +23,7 @@
  // bai 3 
 
  function daysUntilFutureDate(futureDate){
-    
+    // lam gi do
  }
 
  let targetDate = new Date("2023-09-27");
